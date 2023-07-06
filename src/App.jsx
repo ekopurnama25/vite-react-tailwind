@@ -1,18 +1,22 @@
 import { useState } from "react";
-
-import Header from "./components/Header";
-
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import routes from "./components/Routes";
 function App() {
-  const [likes, setLikes] = useState(0);
-
-  function handleClick() {
-    setLikes(likes + 1);
-  }
-
   return (
     <>
-      <Header />
-      <button onClick={handleClick}> Like ({likes})</button>
+      <Router>
+        <Routes>
+          <Route>
+            {routes.map((route) => (
+              <Route
+                key={route.path}
+                path={route.path}
+                element={route.element}
+              />
+            ))}
+          </Route>
+        </Routes>
+      </Router>
     </>
   );
 }

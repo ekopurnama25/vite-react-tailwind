@@ -1,3 +1,13 @@
-export default function Header({ author }) {
-  return <h1>Learning React {author ? author : "EKO"} 🚀</h1>;
-}
+import React, { useEffect } from "react";
+
+const Header = ({ author }) => {
+  return (
+    <header className="bg-white shadow">
+      <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+        <h1 className="text-3xl font-bold text-gray-900">{author}</h1>
+      </div>
+    </header>
+  );
+};
+
+export default Header;
