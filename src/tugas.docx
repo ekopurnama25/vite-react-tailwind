@@ -1,0 +1,238 @@
+TUGAS AUDIT SISTEM INFORMASI
+
+AUDIT SISTEM INFORMASI APLIKASI PENJUALAN ND6 MENGGUNAKAN FRAMEWORK IT-IL VERSION 3 DOMAIN : SERVICE OPERATION & SERVICE STRATEGY 
+
+
+Disusul Oleh
+ketua Tim 	: M. Subki Tajudin
+Anggota Tim 1 : Eko Purnama Azi 
+Anggota Tim 2 : Masih Dicari cari  
+
+
+
+
+INSITUT BINA SARANA GLOBAL
+
+
+LAPORAN AUDIT SISTEM INFORMASI APLIKASI PENJUALAN ND6
+
+1.	Alat yang digunakan 
+Dalam melakukan audit sistem informasi menggunakan framework ITIL versi 3, berikut adalah beberapa alat yang dapat digunakan:
+
+a.	Alat Manajemen Layanan IT (IT Service Management Tools):
+   	Alat-alat seperti ServiceNow, BMC Remedy, atau JIRA Service Desk dapat membantu dalam mengelola proses-proses ITIL, termasuk manajemen kejadian, manajemen perubahan, manajemen konfigurasi, dan manajemen pemulihan bencana.
+
+b.	Alat Pemantauan Kinerja Sistem (System Performance Monitoring Tools):
+   	Alat-alat seperti Nagios, Zabbix, atau SolarWinds dapat digunakan untuk memantau kinerja aplikasi penjualan ND6 dan infrastruktur yang terkait. Alat ini memberikan informasi tentang ketersediaan, kapasitas, dan performa sistem secara real-time.
+
+c.	Alat Pemantauan Keamanan (Security Monitoring Tools):
+   	Alat-alat seperti SIEM (Security Information and Event Management) seperti Splunk atau IBM QRadar dapat membantu dalam memantau aktivitas keamanan sistem dan mendeteksi ancaman keamanan potensial.
+
+d.	Alat Manajemen Konfigurasi (Configuration Management Tools):
+   	Alat-alat seperti Puppet, Chef, atau Ansible dapat membantu dalam mengelola konfigurasi perangkat keras dan perangkat lunak yang digunakan dalam aplikasi penjualan ND6. Alat ini memastikan konsistensi dan keandalan konfigurasi.
+
+e.	Alat Pemulihan Bencana (Disaster Recovery Tools):
+   	Alat-alat seperti Veeam, Veritas NetBackup, atau Zerto dapat membantu dalam menyediakan solusi pemulihan bencana yang terukur dan efektif, termasuk pencadangan data dan pemulihan yang cepat.
+
+f.	Alat Pemantauan Layanan (Service Monitoring Tools):
+   	Alat-alat seperti Pingdom, New Relic, atau Datadog dapat digunakan untuk memantau ketersediaan dan performa layanan aplikasi penjualan ND6 dari perspektif pengguna akhir.
+
+g.	Alat Audit Keamanan (Security Audit Tools):
+ 	Alat-alat seperti Nessus, OpenVAS, atau Qualys dapat membantu dalam melakukan audit keamanan sistem dan aplikasi untuk mengidentifikasi celah keamanan dan melacak kepatuhan terhadap kebijakan keamanan.
+
+Pilihan alat yang tepat akan tergantung pada kebutuhan dan infrastruktur spesifik PT. INAFOOD serta anggaran dan sumber daya yang tersedia. Pastikan untuk memilih alat yang sesuai dengan tujuan audit Anda dan mampu memberikan informasi yang dibutuhkan untuk mengevaluasi sistem informasi aplikasi penjualan ND6 secara efektif.
+
+2.	Mekanisme Audit
+Dalam melakukan audit sistem informasi aplikasi penjualan ND6 dengan menggunakan framework ITIL versi 3, berikut adalah beberapa mekanisme audit yang dapat Anda terapkan:
+
+a. Perencanaan Audit:
+   - Tentukan ruang lingkup audit, tujuan, dan sasaran yang ingin dicapai.
+   - Identifikasi aspek-aspek penting yang akan diaudit, termasuk proses, kebijakan, infrastruktur, dan dokumentasi terkait aplikasi penjualan ND6.
+   - Tentukan jadwal audit dan sumber daya yang dibutuhkan.
+
+b. Pengumpulan Informasi:
+   - Kumpulkan dokumen dan informasi terkait aplikasi penjualan ND6, termasuk kebijakan, prosedur, dokumen konfigurasi, laporan kejadian, laporan pemulihan bencana, dan dokumentasi lainnya yang relevan.
+   - Wawancarai personel yang terlibat dalam operasi, pengelolaan, dan penggunaan aplikasi penjualan ND6.
+   - Analisis infrastruktur teknis yang mendukung aplikasi, termasuk jaringan, server, basis data, dan komponen lainnya.
+
+c. Evaluasi Kepatuhan:
+   - Tinjau kebijakan, prosedur, dan praktik yang diterapkan oleh PT. INAFOOD dan bandingkan dengan standar ITIL versi 3.
+   - Periksa kepatuhan terhadap kebijakan dan prosedur yang telah ditetapkan, serta identifikasi adanya kekurangan atau pelanggaran.
+
+d. Evaluasi Performa dan Ketersediaan:
+   - Analisis kinerja aplikasi penjualan ND6, termasuk waktu respons, ketersediaan, dan keandalan sistem.
+   - Tinjau laporan kejadian dan tindakan perbaikan yang dilakukan terhadap masalah dan insiden yang terjadi.
+   - Evaluasi manajemen kapasitas dan kebutuhan pemeliharaan untuk memastikan aplikasi dapat mendukung beban kerja yang diharapkan.
+
+e. Penilaian Keamanan:
+   - Tinjau kebijakan keamanan yang diterapkan oleh PT. INAFOOD untuk melindungi aplikasi penjualan ND6 dari ancaman keamanan.
+   - Periksa tindakan keamanan yang telah diimplementasikan, seperti enkripsi data, kontrol akses, pemantauan keamanan, dan perlindungan terhadap serangan.
+
+f. Evaluasi Manajemen Layanan:
+   - Tinjau proses-proses manajemen layanan yang ada, termasuk manajemen kejadian, manajemen perubahan, manajemen konfigurasi, dan manajemen pemulihan bencana.
+   - Evaluasi apakah proses-proses tersebut efektif dalam mendukung penggunaan dan operasional aplikasi penjualan ND6.
+
+g. Identifikasi Temuan dan Rekomendasi:
+   - Dokumentasikan temuan-temuan audit secara terperinci.
+   - Berikan rekomendasi perbaikan dan langkah-langkah yang diperlukan untuk meningkatkan kinerja, kepatuhan, dan keamanan aplikasi penjualan ND6.
+   - Sampaikan laporan audit kepada manajemen PT. INAFOOD dan diskusikan temuan serta rekomendasi dengan mereka.
+
+Pastikan untuk mengikuti prosedur audit yang sesuai, termasuk menjaga kerahasiaan informasi yang diperoleh selama proses audit, berkomunikasi dengan stakeholder terkait, dan mengikuti standar dan panduan audit yang berlaku. Selain itu, pastikan untuk mengacu pada kerangka kerja ITIL versi 3 dan menggunakan alat yang relevan untuk membantu dalam pengumpulan data dan analisis audit.
+
+Harap dicatat bahwa audit sistem informasi yang komprehensif sering kali membutuhkan pengetahuan dan keahlian yang spesifik dalam bidang ITIL dan audit sistem informasi. Jika Anda tidak memiliki keahlian ini, disarankan untuk bekerja sama dengan seorang auditor yang berpengalaman atau tim audit yang terlatih dalam melakukan audit sistem informasi.
+
+
+
+	Ruang Lingkup
+1. Proses Operasional Aplikasi Penjualan ND6:
+   - Tinjau dan evaluasi proses operasional yang terkait dengan aplikasi penjualan ND6, seperti proses pemesanan, pengiriman, pembayaran, dan manajemen inventaris.
+   - Evaluasi efektivitas proses-proses ini, kepatuhan terhadap kebijakan dan prosedur, serta identifikasi area yang memerlukan perbaikan.
+2. Manajemen Kejadian (Incident Management):
+   - Tinjau proses manajemen kejadian yang diterapkan oleh PT. INAFOOD terkait dengan aplikasi penjualan ND6, termasuk pelaporan, eskalasi, penyelesaian, dan pelacakan insiden.
+   - Evaluasi respons dan penyelesaian insiden yang dilakukan, serta identifikasi peluang untuk meningkatkan efisiensi dan kecepatan tanggapan.
+3. Manajemen Perubahan (Change Management):
+   - Tinjau proses manajemen perubahan yang diterapkan dalam pengembangan, peningkatan, dan pemeliharaan aplikasi penjualan ND6.
+   - Evaluasi prosedur perubahan, pengendalian, dan pengujian perubahan yang dilakukan, serta identifikasi risiko dan peluang perbaikan.
+4. Manajemen Konfigurasi (Configuration Management):
+   - Tinjau kebijakan dan prosedur manajemen konfigurasi yang diterapkan untuk aplikasi penjualan ND6, termasuk pengelolaan inventaris perangkat keras, perangkat lunak, dan konfigurasi aplikasi.
+   - Evaluasi kepatuhan terhadap kebijakan, akurasi informasi konfigurasi, serta pengendalian dan pemantauan konfigurasi.
+5. Manajemen Kapasitas (Capacity Management):
+   - Tinjau kebijakan dan prosedur manajemen kapasitas yang diterapkan untuk memastikan kapasitas sistem dan infrastruktur mendukung beban kerja aplikasi penjualan ND6.
+   - Evaluasi pemantauan, perencanaan, dan pengukuran kapasitas yang dilakukan, serta identifikasi area yang memerlukan peningkatan kapasitas.
+6. Manajemen Keamanan (Security Management):
+   - Tinjau kebijakan keamanan yang diterapkan untuk melindungi aplikasi penjualan ND6 dari ancaman keamanan, termasuk kebijakan akses, enkripsi data, pemantauan keamanan, dan perlindungan terhadap serangan.
+   - Evaluasi kepatuhan terhadap kebijakan keamanan, efektivitas kontrol keamanan yang diterapkan, serta identifikasi celah keamanan potensial.
+7. Strategi Layanan dan Kebijakan Layanan:
+   - Tinjau strategi layanan dan kebijakan layanan yang telah ditetapkan untuk aplikasi penjualan ND6, termasuk penetapan tingkat layanan,
+
+Metode yang digunakan
+Dalam melakukan audit sistem informasi aplikasi penjualan ND6 dengan menggunakan framework ITIL versi 3, terdapat beberapa metode yang dapat Anda terapkan. Berikut adalah beberapa metode yang umum digunakan dalam audit sistem informasi:
+
+1.	Analisis Dokumentasi:
+Tinjau dan analisis dokumen terkait dengan aplikasi penjualan ND6, termasuk kebijakan, prosedur, perjanjian layanan, laporan kejadian, laporan pemulihan bencana, dan dokumentasi lainnya.
+ 	Evaluasi kepatuhan terhadap kebijakan dan prosedur yang ditetapkan, serta identifikasi ketidaksesuaian dan celah yang mungkin ada.
+2.	Wawancara :
+ 	Wawancarai personel yang terlibat dalam operasional, pengelolaan, dan penggunaan aplikasi penjualan ND6, seperti manajer sistem informasi, administrator sistem, pengguna aplikasi, dan personel terkait lainnya.
+ 	Gunakan wawancara untuk memperoleh informasi tentang proses, kebijakan, masalah yang terjadi, tindakan perbaikan yang dilakukan, dan pandangan mereka terkait dengan sistem informasi.
+3.	Observasi :
+Amati secara langsung proses operasional dan penggunaan aplikasi penjualan ND6 dalam lingkungan kerja nyata.
+ 	Identifikasi praktik yang dilakukan, kendala yang dihadapi, dan potensi kekurangan dalam implementasi atau penggunaan sistem.
+4.	Pengujian
+ 	Lakukan pengujian fungsionalitas aplikasi penjualan ND6 untuk memverifikasi apakah sistem bekerja sesuai dengan kebutuhan dan spesifikasi yang ditetapkan.
+ 	Lakukan pengujian keamanan untuk mengidentifikasi kerentanan dan celah keamanan potensial dalam sistem.
+5.	Analisis Kinerja
+Lakukan analisis kinerja aplikasi penjualan ND6 untuk memastikan bahwa sistem bekerja dengan efisien dan responsif.
+Tinjau laporan kinerja, log aktivitas, dan metrik yang relevan untuk mengevaluasi ketersediaan, kecepatan, dan keandalan sistem.
+6.	Audit Konfigurasi
+ 	Periksa dan verifikasi konfigurasi perangkat keras dan perangkat lunak yang digunakan dalam aplikasi penjualan ND6 untuk memastikan konsistensi dan keandalan.
+   - Tinjau prosedur manajemen konfigurasi yang diterapkan dan identifikasi potensi kesalahan konfigurasi.
+7.	Pengujian Keamanan
+Lakukan pengujian keamanan untuk mengidentifikasi celah keamanan dalam aplikasi penjualan ND6, termasuk pengujian penetrasi, pemindaian kerentanan, dan analisis keamanan.
+
+Identifikasi masalah
+1.	Ketidaksesuaian dengan Kebijakan dan Prosedur:
+Dapat terjadi ketidaksesuaian antara praktik yang dilakukan dalam pengoperasian aplikasi penjualan ND6 dengan kebijakan dan prosedur yang ditetapkan. Hal ini dapat meliputi pengabaian terhadap prosedur keamanan, kurangnya kepatuhan terhadap proses manajemen perubahan, atau ketidaksesuaian terhadap kebijakan pengelolaan konfigurasi.
+2.	Masalah Ketersediaan dan Kinerja
+3.	Kelemahan Keamanan:
+4.	Masalah Manajemen Konfigurasi:
+5.	Keterbatasan Manajemen Layanan:
+6.	Kurangnya Pemantauan dan Pelaporan:
+
+Proses transaksi penjualan
+1.	Pemesanan :
+Pelanggan melakukan pemesanan produk melalui aplikasi penjualan ND6. Mereka memilih produk yang diinginkan, jumlahnya, dan mungkin juga memasukkan rincian lain seperti alamat pengiriman
+2.	Verifikasi Ketersediaan
+   - Sistem aplikasi penjualan ND6 memverifikasi ketersediaan produk yang dipesan dalam inventaris. Jika produk tersedia, proses transaksi melanjutkan ke langkah berikutnya. Jika tidak tersedia, mungkin akan diberikan pilihan alternatif kepada pelanggan atau pesanan akan ditempatkan dalam daftar tunggu.
+3.	Penentuan Harga
+Sistem aplikasi penjualan ND6 menentukan harga total pesanan berdasarkan harga produk, jumlah yang dipesan, dan mungkin juga mempertimbangkan diskon atau biaya tambahan lainnya.
+
+
+4.	Pembayaran
+Pelanggan melakukan pembayaran melalui metode yang tersedia dalam aplikasi penjualan ND6, seperti kartu kredit, transfer bank, atau pembayaran online lainnya.
+5.	Verifikasi Pembayaran
+ 	Sistem aplikasi penjualan ND6 melakukan verifikasi pembayaran yang dilakukan oleh pelanggan. Hal ini melibatkan komunikasi dengan sistem pembayaran atau gateway pembayaran yang terhubung untuk memastikan bahwa pembayaran berhasil dan valid.
+6.	Pengiriman
+Setelah pembayaran terverifikasi, sistem aplikasi penjualan ND6 menginisiasi proses pengiriman produk kepada pelanggan. Informasi pengiriman, termasuk alamat tujuan dan metode pengiriman, mungkin juga ditentukan dalam aplikasi.
+7.	Penyusunan Pemesanan
+Pihak PT. INAFOOD akan mempersiapkan pesanan dengan memilih produk yang dipesan, melakukan pengemasan yang sesuai, dan menyiapkan dokumen pengiriman yang diperlukan.
+8.	Pengiriman dan Pelacakan
+   - Produk yang dipesan dikirimkan kepada pelanggan sesuai dengan metode pengiriman yang dipilih. Sistem aplikasi penjualan ND6 mungkin menyediakan informasi pelacakan pengiriman agar pelanggan dapat melacak status pengiriman mereka.
+9.	Konfirmasi Penerimaan
+   - Setelah produk diterima oleh pelanggan, mereka mungkin diminta untuk mengkonfirmasi penerimaan pesanan melalui aplikasi penjualan ND6. Hal ini membantu dalam memastikan kepuasan pelanggan dan menyelesaikan proses transaksi penjualan.
+
+
+
+Proses bisnis
+1. Identifikasi Pelanggan:
+2. Pemasaran dan Promosi:
+3. Permintaan Penjualan:
+4. Penerimaan dan Pemrosesan Pesanan:
+5. Konfirmasi Pesanan dan Pembayaran:
+6. Pengolahan dan Pengiriman Barang:
+7. Pengiriman dan Pelacakan
+8. Penerimaan dan Penyelesaian
+9. Layanan Pelanggan
+10. Analisis dan Peningkatan
+
+Spesifikasi Komputer 
+Spesifikasi komputer dapat bervariasi tergantung pada kebutuhan dan tujuan penggunaannya. Namun, berikut adalah beberapa komponen umum yang terdapat dalam spesifikasi komputer:
+
+1. Prosesor (CPU):
+ 	Prosesor merupakan otak komputer yang bertanggung jawab untuk menjalankan instruksi dan melakukan operasi komputasi. Contohnya adalah Intel Core i5 atau AMD Ryzen 7.
+
+2. Memori (RAM):
+Memori RAM digunakan untuk menyimpan data dan instruksi yang sedang digunakan oleh komputer. Semakin besar kapasitas RAM, semakin banyak data yang dapat diakses dengan cepat. Contohnya adalah 8GB, 16GB, atau 32GB RAM.
+
+3. Penyimpanan (Hard Drive atau Solid-State Drive):
+ 	Hard Drive (HDD) atau Solid-State Drive (SSD) digunakan untuk menyimpan data dan program di dalam komputer. HDD memiliki kapasitas penyimpanan yang lebih besar dengan kecepatan transfer yang lebih lambat, sedangkan SSD memiliki kecepatan transfer yang lebih tinggi tetapi dengan kapasitas yang lebih terbatas.
+
+4. Kartu Grafis (GPU):
+ 	Kartu grafis bertanggung jawab untuk menghasilkan tampilan visual pada layar komputer. Jika Anda menggunakan komputer untuk keperluan gaming atau desain grafis, kartu grafis yang lebih kuat akan memberikan performa grafis yang lebih baik. Contohnya adalah Nvidia GeForce RTX 3070 atau AMD Radeon RX 6800.
+
+5. Layar (Monitor):
+Layar monitor menampilkan output visual dari komputer. Ukuran, resolusi, dan jenis layar (misalnya, LCD atau LED) dapat bervariasi tergantung pada preferensi pengguna.
+
+6. Motherboard:
+Motherboard adalah papan sirkuit utama yang menghubungkan semua komponen dalam komputer. Motherboard yang baik harus kompatibel dengan jenis prosesor, RAM, dan perangkat keras lainnya yang digunakan.
+
+7. Sistem Operasi:
+ 	Sistem operasi adalah perangkat lunak yang mengelola dan mengendalikan semua operasi pada komputer. Contohnya adalah Windows, macOS, atau Linux.
+
+8. Periferal:
+ 	Periferal meliputi keyboard, mouse, printer, dan perangkat lain yang terhubung ke komputer untuk memfasilitasi interaksi dan penggunaan.
+
+AUDIT SISTEM INFORMASI APLIKASI PENJUALAN ND6
+
+1.	Perencanaan Audit
+Dalam perencanaan audit akan melakukan beberapa tahap yaitu :
+-	Mengajukan Permohonan Proposal
+-	Manganalisi System 
+-	Pengumpulan Sebuah Data
+
+2.	Analisis 
+Audit Sistem Informasi Aplikasi Penjualan ND6 melihat beberapa aspek aplikasi yang digunakan masih kurang responden atau pun masih kurangnya penyimpanan sebuah data yang ada pada system saat ini, pengandalian proses yang dilakukan masih kurang benar ataupun tidak sesuai data yang ada. Dan pengendalian output dilakukan untuk mengetahui apakah output yang dikeluarkan oleh system telah dilakukan sesuai dengan ketetapan perusahaan serta sesuai dengan harapan.
+Untuk mengatasi suatu system ke efektifan dan keefisien sebelum menjual membuat schedule penjualan yang sesuai jadwal pelaksanaan, serta disusuaikan dengan volume kebutuhan barang yang telah ditetapkan dalam rencana anggaran biaya dan realisasi responden kebutuhan 
+
+
+
+
+
+
+
+3.	Pengumpulan Data
+Adapun metode pengumpulan data yang digunakan sebagai berikut :
+1.	Wawancara 
+Pengumpulan data yang dilakukan dengan wawancara kepada bagian IT dan bagian penjualan serta karyawan yang bersangkutan dengan istem informai penjualan ND6 untuk mendapatkan uraian tentang proedur penjualan yang sedang bejalan.
+2.	Pengamatan (Observasi)
+Observasi yang dilakukan dengan menguji system informasi aplikasi yang berjalan dan mengumpulkan data-data yang ada dengan cara dating mengamati perusahaan.
+
+4.	Pengendalian Umum Atas Manajemn Keamanan
+Kusioner yang diberikan adalah sebagai berikut
+
+Tabel 4.1 Kuisionel Pengendalian Umum atas manajemen keamanan.
+	
+No	Pertanyaan	Jawaban	Keterangan
+		Y	T	
+1				
+2				
+3		
